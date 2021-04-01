@@ -1,0 +1,3 @@
+[submodule "pastequeflow"]
+	path = pastequeflow
+	url = git@github.com:BlueskyFR/pastequeflow
